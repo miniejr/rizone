@@ -1,0 +1,42 @@
+@media(max-width:1112px) {
+    h1 {
+        font-size: 3.5rem;
+    }
+
+
+}
+
+@media(max-width:1027px) {
+    h1 {
+        font-size: 3rem;
+    }
+
+}
+
+@media(max-width:600px) {
+    .colomimage {
+        display: none;
+    }
+}
+
+@media(max-width:671px) {
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+@media(max-width:600px) {
+    .home {
+        text-align: center;
+    }
+}
+
+@media(max-width:309px) {
+    .imglogo {
+        width: 50%;
+
+    }
+}
+
+
+/* slider */
